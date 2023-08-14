@@ -1,0 +1,42 @@
+
+---Downloaded files---
+The import files for: University were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/PruebaWP
+Data file = C:\xampp\htdocs\PruebaWP/wp-content/uploads/2023/07/demo-content-import-file_2023-07-27__14-10-44.xml
+Widget file = C:\xampp\htdocs\PruebaWP/wp-content/uploads/2023/07/demo-widgets-import-file_2023-07-27__14-10-44.json
+Customizer
+
+---Importing widgets---
+Sidebar : 
+
+Buscar - No Title - Imported
+Entradas recientes - No Title - Imported
+Categorías - No Title - Imported
+
+Footer Widget 1 : 
+
+Texto - No Title - Imported
+Texto - No Title - Imported
+
+Footer Widget 2 : 
+
+Menú de Navegación - Quick Links - Imported
+
+Footer Widget 3 : 
+
+Menú de Navegación - Resources - Imported
+
+Footer Widget 4 : 
+
+Menú de Navegación - Support - Imported
+
+Footer Social Media : 
+
+HTML personalizado - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
